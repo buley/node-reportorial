@@ -1,0 +1,284 @@
+{
+    "services": ["tumblr", "facebook", "twitter"],
+    "actions": ["stream"],
+    "tokens": {
+        "facebook": "AAAAANZBZAN3PgBAKYGT2cpb9noVAJKDHbQT29VLuD3KGTrlfWFse96ZAZBL7Od9WZBohnLaSKOFfO874F5aZCzCLeNVIpK1GYEZAvu1rWKnNIoMrytuo2ed",
+        "google": null,
+        "linkedin": null,
+        "twitter": "378779413-lNIeSuLqP50xlrC15akjjeIFzE9fPirmhZsKA8IK",
+        "windows": null,
+        "foursquare": null,
+        "yahoo": null,
+        "github": null,
+        "tumblr": "Sojt5mWCNTiZ6IPr5p550877JAvs4hWxJA4G1OFU1ELcEPMUzt"
+    },
+    "secrets": {
+        "facebook": null,
+        "google": null,
+        "linkedin": null,
+        "twitter": "3GePpeusTS4Hdu7kxjIAvXksr5wg3IsrvQwSjIJRI",
+        "windows": null,
+        "foursquare": null,
+        "yahoo": null,
+        "github": null,
+        "tumblr": "s6EYwCk6S3Fcp2l5QKSm0gsS6Mrt3AUOwyXV5g5IC0Iu1tClgb"
+    },
+    "data": {
+        "streams": {
+            "twitter": [],
+            "tumblr": [{
+                "actor": {
+                    "displayName": "parislemon",
+                    "id": "parislemon",
+                    "image": {}
+                },
+                "generator": {
+                    "image": {}
+                },
+                "icon": {},
+                "object": {
+                    "attachments": [{
+                        "key": "reblog_key",
+                        "value": "ZqCHe4L0"
+                    }],
+                    "displayName": "Motorola Will Be Google’s Most Interesting Project Yet",
+                    "id": 23593552371,
+                    "image": {},
+                    "objectType": "link",
+                    "published": "2012-05-23 04:34:00 GMT",
+                    "summary": "<p>Dan Frommer on the Google/Motorola deal:</p>\n<blockquote>\n<p><strong>One opportunity would be to formally split Android devices into three tracks</strong>: Plain-old-Android, do what you want with it; the Nexus program (significant Google control, available to select partners); and a third line (complete Google control, exclusive to Motorola, ideally the highest-quality line). We’ll see if that happens — and if it does, whether it works. Everyone has different motivations for Android: Google, phone manufacturers, carriers, and consumers. They might never harmonize.</p>\n</blockquote>\n<p>I do think track three will happen eventually. And when it does, track two will become meaningless. You simply cannot have your cake and eat it too — and then throw it up and eat it again.</p>",
+                    "url": "http://parislemon.com/post/23593552371/motorola-will-be-googles-most-interesting-project-yet"
+                },
+                "provider": {
+                    "displayName": "Tumblr",
+                    "id": "tumblr",
+                    "image": {}
+                },
+                "target": {
+                    "image": {}
+                },
+                "verb": "post"
+            }, {
+                "actor": {
+                    "displayName": "parislemon",
+                    "id": "parislemon",
+                    "image": {}
+                },
+                "generator": {
+                    "image": {}
+                },
+                "icon": {},
+                "object": {
+                    "attachments": [{
+                        "key": "reblog_key",
+                        "value": "CAX1Obfe"
+                    }],
+                    "displayName": "The 4-Inch Display",
+                    "id": 23591706197,
+                    "image": {},
+                    "objectType": "link",
+                    "published": "2012-05-23 03:56:00 GMT",
+                    "summary": "<p>John Gruber, elaborating on the previously <a href=\"http://parislemon.com/#!/post/23563260940/9to5mac-both-of-these-phones-sport-a-new\">linked</a> 9to5Mac <a href=\"http://9to5mac.com/2012/05/22/likely-next-generation-iphone-with-3-9-inch-display-1136-x-640-resolution-in-testing/\">report</a>:</p>\n<blockquote>\n<p>First, at 1136 × 640, you get a diagonal of 1,303.877 pixels after applying the Pythagorean theorem. There are no such thing as fractional pixels, but what I’m talking about here are pixels as a unit of length, equal to 1/326 inch. Divide 1,303.877 by 326 and you get 3.9996 inches. Boom, a “4-inch” display.</p>\n</blockquote>\n<p>If Apple does indeed change the screen — which is looking increasingly likely — this thing is going to make the last few iPhone launches look very meek. There will be none in the &#8220;but it looks the same as the last one&#8221; camp. Everyone will want to upgrade.</p>\n<p>And if they add LTE as well&#8230;</p>",
+                    "url": "http://parislemon.com/post/23591706197/the-4-inch-display"
+                },
+                "provider": {
+                    "displayName": "Tumblr",
+                    "id": "tumblr",
+                    "image": {}
+                },
+                "target": {
+                    "image": {}
+                },
+                "verb": "post"
+            }, {
+                "actor": {
+                    "displayName": "oliphillips",
+                    "id": "oliphillips",
+                    "image": {}
+                },
+                "generator": {
+                    "image": {}
+                },
+                "icon": {},
+                "object": {
+                    "attachments": [{
+                        "key": "reblog_key",
+                        "value": "OMoBmjGM"
+                    }],
+                    "displayName": "those of you with society6 accounts please head over to my mates store & click 'promote' on his pieces. He's new",
+                    "id": 23579472196,
+                    "image": {},
+                    "objectType": "link",
+                    "published": "2012-05-23 00:57:32 GMT",
+                    "url": "http://blog.oliverphillips91.co.uk/post/23579472196/those-of-you-with-society6-accounts-please-head-over-to"
+                },
+                "provider": {
+                    "displayName": "Tumblr",
+                    "id": "tumblr",
+                    "image": {}
+                },
+                "target": {
+                    "image": {}
+                },
+                "verb": "post"
+            }, {
+                "actor": {
+                    "displayName": "bijan",
+                    "id": "bijan",
+                    "image": {}
+                },
+                "generator": {
+                    "image": {}
+                },
+                "icon": {},
+                "object": {
+                    "attachments": [{
+                        "key": "reblog_key",
+                        "value": "jZwMPHee"
+                    }],
+                    "content": "<p>Such a nice guy</p>\n<p><img src=\"http://media.tumblr.com/tumblr_m4ga98eW601qz4j35.jpg\"/></p>",
+                    "displayName": "Met @mchammer today",
+                    "id": 23578800568,
+                    "image": {},
+                    "objectType": "note",
+                    "published": "2012-05-23 00:48:53 GMT",
+                    "url": "http://bijansabet.com/post/23578800568/met-mchammer-today"
+                },
+                "provider": {
+                    "displayName": "Tumblr",
+                    "id": "tumblr",
+                    "image": {}
+                },
+                "target": {
+                    "image": {}
+                },
+                "verb": "post"
+            }, {
+                "actor": {
+                    "displayName": "prepaidafrica",
+                    "id": "prepaidafrica",
+                    "image": {}
+                },
+                "generator": {
+                    "image": {}
+                },
+                "icon": {},
+                "object": {
+                    "attachments": [{
+                        "key": "reblog_key",
+                        "value": "gCG8w3BV"
+                    }],
+                    "displayName": " South Africa's African agenda ",
+                    "id": 23571526758,
+                    "image": {},
+                    "objectType": "link",
+                    "published": "2012-05-22 23:10:19 GMT",
+                    "summary": "<p>Historically South Africa was designed as an appendage of Europe , with Africans as cogs in the wheel. The other Africa was sold to local blacks as inferior and the countries best avoided.</p>\n<p>It is still not unusual to hear black South Africans refer to other African countries as &#8220;Up there&#8221;&#8220;. Xenophobia has become synonymous to South Africa.</p>\n<p>But things are gradually changing as other Africans become better known with time and as other African countries join the success list, politically and economically.</p>\n<p>South Africa, well steeped in racial history had always sought to identify with the first world, while the first world itself have re-discovered Africa&#8217;s massive potential. That outlook has seen the Zuma administration join the economic grouping Brics and the G20 to the neglect of a strong African economic union.</p>\n<p>Black South Africa woke up belatedly to discover that the flights from Johannesburg flying North to the rest of africa was filled with white South africans freed from the shackles of apartheid , busy taking adavantage of massive opportunities that had opened up in a growing Africa.</p>\n<p>MTN South Africa, has made a fortune in Nigeria. Its shareholders are largely white.There are more than eighty South African companies registered in Ghana.</p>\n<p>The South African investors are prevalent in the following sectors: mining, retail, insurance, transport, tourism, banking, telecommunication, construction, services, franchising, manufacturing, fishing, advertising, aviation and energy. A rapidly growing economy has seen Ghana register the highest growth rate in the world last year at 14.2&#160;%. The nascent oil industry with Ghana joining the exporters club , has attracted interest globally and the South African government has seen the need to nurture an african brotherhood narrative or risk losing out big time.</p>\n<p>Petro SA signed some lucrative agreements. In recent years, trade between South Africa and Ghana has grown significantly. South African exports have grown from less than R1 billion in 1998 to over R3 billion in 2009.</p>\n<p>Equally, imports from Ghana have shown constant increase during the same period. Products such as vehicles, machinery, mechanical appliances; electrical equipment, base metals, aircraft, vessels &amp; associated products contributes to the increased exports to Ghana. The gradual realisation is that Africans should have the confidence to invest in themselves and to invest in one another, or continue to be marginalized in the global scheme of things.</p>\n<p>Last year Nigerians invested 1.6 billion USD in the Ghanaian economy. So who needs to go cap in hand looking for money in a collapsing Europe and a bankrupt America.</p>\n<p>Right thinking South African companies have been quick off the mark and are now reaping the rewards as well as helping improve other African countries with their superior business systems and technology.</p>",
+                    "url": "http://prepaidafrica.tumblr.com/post/23571526758/south-africas-african-agenda"
+                },
+                "provider": {
+                    "displayName": "Tumblr",
+                    "id": "tumblr",
+                    "image": {}
+                },
+                "target": {
+                    "image": {}
+                },
+                "verb": "post"
+            }, {
+                "actor": {
+                    "displayName": "parislemon",
+                    "id": "parislemon",
+                    "image": {}
+                },
+                "generator": {
+                    "image": {}
+                },
+                "icon": {},
+                "object": {
+                    "attachments": [{
+                        "key": "reblog_key",
+                        "value": "wUvddHVE"
+                    }],
+                    "displayName": "As For The Past 16 Years...",
+                    "id": 23567885271,
+                    "image": {},
+                    "objectType": "link",
+                    "published": "2012-05-22 22:19:29 GMT",
+                    "summary": "<p>It would be one thing to point out StarTAC once as a fun homage to Motorola&#8217;s history, but Google goes out of its way to point out the device in both their official blog post about the Motorola deal and the <strike>propaganda</strike> <a href=\"http://www.google.com/press/motorola/\">facts onesheet</a>.</p>\n<p>The money line:</p>\n<blockquote>\n<p>Its many industry milestones include the introduction of the world’s first portable cell phone nearly 30 years ago, and the StarTAC–the smallest and lightest phone in the world when it was launched.</p>\n</blockquote>\n<p>I mean, that was 16 years ago! Google couldn&#8217;t come up with some innovation a little more recent?</p>\n<p>Admittedly, it is pretty hard. The only recent innovation I can nail down is perfecting <a href=\"http://parislemon.com/post/22221189633/that-magical-12-5-billion-deal\">the art of losing money</a>.</p>",
+                    "url": "http://parislemon.com/post/23567885271/as-for-the-past-16-years"
+                },
+                "provider": {
+                    "displayName": "Tumblr",
+                    "id": "tumblr",
+                    "image": {}
+                },
+                "target": {
+                    "image": {}
+                },
+                "verb": "post"
+            }, {
+                "actor": {
+                    "displayName": "parislemon",
+                    "id": "parislemon",
+                    "image": {}
+                },
+                "generator": {
+                    "image": {}
+                },
+                "icon": {},
+                "object": {
+                    "attachments": [{
+                        "key": "reblog_key",
+                        "value": "gy4DkGKa"
+                    }],
+                    "displayName": "Stolen iPhone Adventures",
+                    "id": 23564582053,
+                    "image": {},
+                    "objectType": "link",
+                    "published": "2012-05-22 21:31:00 GMT",
+                    "summary": "<p>A guy named Nelson stole Katy McCaffrey&#8217;s iPhone. Little did he realize his photos would end up in her Photo Stream. Or that she would post them all to Facebook&#8230;</p>\n<p>Gotta love technology.</p>\n<p>At least it looks like Nelson had a wild night on the USS Dumbass.</p>\n<p><em>(via <a href=\"https://www.facebook.com/ryvance\">Ryan Vance</a>)</em></p>",
+                    "url": "http://parislemon.com/post/23564582053/stolen-iphone-adventures"
+                },
+                "provider": {
+                    "displayName": "Tumblr",
+                    "id": "tumblr",
+                    "image": {}
+                },
+                "target": {
+                    "image": {}
+                },
+                "verb": "post"
+            }],
+            "facebook": [{
+                "actor": {
+                    "displayName": "Taylor Buley",
+                    "id": "601804",
+                    "image": {}
+                },
+                "generator": {
+                    "image": {}
+                },
+                "icon": {},
+                "object": {
+                    "content": "\"I still raise a little Cain with the boys... still trying to make a name.\"",
+                    "id": "601804_10100382037181227",
+                    "image": {},
+                    "objectType": "comment",
+                    "published": "2012-05-22T16:57:33+0000",
+                    "updated": "2012-05-22T16:57:33+0000"
+                },
+                "provider": {
+                    "displayName": "Facebook",
+                    "id": "facebook",
+                    "image": {}
+                },
+                "target": {
+                    "image": {}
+                },
+                "verb": "post"
+            }]
+        }
+    }
+}
+
